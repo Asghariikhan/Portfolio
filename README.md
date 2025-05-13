@@ -1,5 +1,3 @@
-# Portfolio
-This is my portfolio website 
 <!DOCTYPE html>
 <html lang="en">
 <head>
